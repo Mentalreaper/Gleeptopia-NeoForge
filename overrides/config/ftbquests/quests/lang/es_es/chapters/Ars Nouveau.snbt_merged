@@ -106,7 +106,7 @@
 		"- Añade/elimina &bHilos&r con la &bMesa de Alteración&r"
 		""
 		"&8Nota del creador de la misión: para mí, es la mejor opción si quieres disfrazarte de hechicera."
-		"&8Consejo: puedes usar Battlemage para los puntos de armadura y &6transmog&r &8a esta armadura por su apariencia."
+		"&8Consejo: usa &bCosmetic Armor Reworked&r &8para conservar las estadísticas de la armadura Battlemage mientras muestras esta armadura."
 	]
 	quest.12094D44D2E3DB16.title: "Capa del Arcanista"
 	quest.12CFAFA1E247D888.quest_desc: [
@@ -1210,7 +1210,7 @@
 		"- Añade/elimina &bHilos&r con la &bMesa de Alteración&r"
 		""
 		"&8Nota del creador de misiones: Elijo esta armadura para uso general. (más armadura, más mejor)"
-		"&8Consejo: &6transmogrifica&r &8a la armadura de Arcanista si quieres parecerte al conjunto de Arcanista."
+		"&8Consejo: usa &bCosmetic Armor Reworked&r &8para mostrar la armadura de Arcanista mientras conservas las estadísticas de esta armadura."
 	]
 	quest.6C7789B56E50B6F1.title: "Capa de Batallamago"
 	quest.7080BD0EC57359A6.quest_desc: [

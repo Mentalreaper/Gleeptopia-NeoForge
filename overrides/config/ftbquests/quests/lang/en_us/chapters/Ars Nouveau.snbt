@@ -106,7 +106,7 @@
 		"- Add/remove &bThreads&r with the &bAlteration Table&r"
 		""
 		"&8Quest maker note: looks the best to me if you want to cosplay as a sorceress."
-		"&8Tip: can use Battlemage for armor point and &6transmog&r &8to this armor for look. "
+		"&8Tip: use &bCosmetic Armor Reworked&r &8to keep Battlemage armor stats while displaying this armor."
 	]
 	quest.12094D44D2E3DB16.title: "Arcanist's Cloak"
 	quest.12CFAFA1E247D888.quest_desc: [
@@ -1211,7 +1211,7 @@
 		"- Add/remove &bThreads&r with the &bAlteration Table&r"
 		""
 		"&8Quest maker note: I choose this armor for general usage. (more armor, more gooder)"
-		"&8Tip: &6transmog&r &8to the Arcanist armor if you want to look like Arcanist set. "
+		"&8Tip: use &bCosmetic Armor Reworked&r &8to display Arcanist armor while keeping this armor's stats."
 	]
 	quest.6C7789B56E50B6F1.title: "BattleMage's Cloak"
 	quest.7080BD0EC57359A6.quest_desc: [

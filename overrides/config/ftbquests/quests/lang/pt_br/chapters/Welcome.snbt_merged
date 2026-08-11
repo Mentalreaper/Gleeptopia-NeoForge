@@ -47,15 +47,11 @@
 	quest.2CB005B413D2B889.quest_desc: [
 		"Sim, você pode ser um modelo! "
 		""
-		"Usando a &bMesa de Transmogrificação&r, você pode &6disfarçar&r &oqualquer&r &7item&r, &7bloco&r ou &7armadura&r como qualquer outra coisa, contanto que permaneça um &7item&r. "
+		"&bCosmetic Armor Reworked&r adiciona &6espaços de armadura cosmética&r ao lado dos espaços normais."
 		""
-		"Quer usar um bloco na cabeça? "
-		"Faça isso! "
+		"A armadura nesses espaços muda sua &aaparência&r sem substituir a armadura que fornece seus atributos."
 		""
-		"Disfarçar a espada mais forte como um biscoito? "
-		"Por que não? "
-		""
-		"As combinações são infinitas. "
+		"Abra o inventário e use os espaços cosméticos para combinar &6proteção&r e &9estilo&r."
 		""
 		"&9Mostre &oSeu Estilo&r."
 	]

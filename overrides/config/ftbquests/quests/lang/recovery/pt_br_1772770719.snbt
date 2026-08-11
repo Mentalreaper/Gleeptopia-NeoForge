@@ -10196,7 +10196,7 @@
 				"- Adicione/remova &bFios&r com a &bMesa de Alteração&r"
 				""
 				"&8Nota do criador da missão: parece melhor para mim se você quiser fazer cosplay de feiticeira."
-				"&8Dica: pode usar Mago de Batalha para pontos de armadura e &6transmog&r &8para esta armadura pelo visual. "
+				"&8Dica: use &bCosmetic Armor Reworked&r &8para manter os atributos da armadura de Mago de Batalha enquanto exibe esta armadura."
 			]
 			old: [
 				"Uma &bArmadura&r que pode ser &6melhorada&r mas tem os pontos de armadura do &7Ferro&r."
@@ -10205,7 +10205,7 @@
 				"- Adicione/remova &bFios&r com a &bMesa de Alteração&r"
 				""
 				"&8Nota do criador da missão: parece a melhor se você quiser fazer cosplay de feiticeira."
-				"&8Dica: pode usar a Armadura de Mago de Batalha pelos pontos e &6transmog&r &8para esta armadura pela aparência. "
+				"&8Dica: use &bCosmetic Armor Reworked&r &8para manter os atributos da armadura de Mago de Batalha enquanto exibe esta armadura."
 			]
 		}
 		quest.2C67C22D74F097A3.title: {
@@ -11254,7 +11254,7 @@
 				"- Adicione/remova &bFios&r com a &bMesa de Alteração&r"
 				""
 				"&8Nota do criador da missão: eu escolho esta armadura para uso geral. (mais armadura, melhor)"
-				"&8Dica: &6transmog&r &8para a armadura de Arcanista se você quiser parecer com o conjunto de Arcanista. "
+				"&8Dica: use &bCosmetic Armor Reworked&r &8para exibir a armadura de Arcanista enquanto mantém os atributos desta armadura."
 			]
 			old: [
 				"Uma &bArmadura&r que pode ser &6melhorada&r mas tem os pontos de armadura de &bDiamante&r."
@@ -11263,7 +11263,7 @@
 				"- Adicione/remova &bFios&r com a &bMesa de Altera00e700e3o&r"
 				""
 				"&8Nota do criador da miss00e3o: Eu escolho esta armadura para uso geral. (mais armadura, melhor)"
-				"&8Dica: &6transmogrificar&r &8para a armadura Arcanista se voc00ea quiser parecer com o conjunto Arcanista."
+				"&8Dica: use &bCosmetic Armor Reworked&r &8para exibir a armadura de Arcanista enquanto mantém os atributos desta armadura."
 			]
 		}
 		quest.3635F4608F1ED244.quest_desc: {
@@ -12556,30 +12556,22 @@
 			new: [
 				"Sim, você pode ser um modelo! "
 				""
-				"Usando a &bMesa de Transmogrificação&r, você pode &6disfarçar&r &oqualquer&r &7item&r, &7bloco&r ou &7armadura&r como qualquer outra coisa, contanto que permaneça um &7item&r. "
+				"&bCosmetic Armor Reworked&r adiciona &6espaços de armadura cosmética&r ao lado dos espaços normais."
 				""
-				"Quer usar um bloco na cabeça? "
-				"Faça isso! "
+				"A armadura nesses espaços muda sua &aaparência&r sem substituir a armadura que fornece seus atributos."
 				""
-				"Disfarçar a espada mais forte como um biscoito? "
-				"Por que não? "
-				""
-				"As combinações são infinitas. "
+				"Abra o inventário e use os espaços cosméticos para combinar &6proteção&r e &9estilo&r."
 				""
 				"&9Mostre &oSeu Estilo&r."
 			]
 			old: [
-				"Sim, você pode ser um modelo!"
+				"Sim, você pode ser um modelo! "
 				""
-				"Usando a &bMesa de Transmogrificação&r, você pode &6disfarçar&r &oqualquer&r &7item&r, &7bloco&r ou &7armadura&r como qualquer outra coisa, desde que continue sendo um &7item&r."
+				"&bCosmetic Armor Reworked&r adiciona &6espaços de armadura cosmética&r ao lado dos espaços normais."
 				""
-				"Quer usar um bloco na cabeça?"
-				"Use!"
+				"A armadura nesses espaços muda sua &aaparência&r sem substituir a armadura que fornece seus atributos."
 				""
-				"Disfarçar a espada mais forte como um biscoito?"
-				"Por que não?"
-				""
-				"As combinações são infinitas."
+				"Abra o inventário e use os espaços cosméticos para combinar &6proteção&r e &9estilo&r."
 				""
 				"&9Mostre &oSeu Estilo&r."
 			]
