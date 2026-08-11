@@ -3,7 +3,7 @@
     "version": "1.21.1",
     "modLoaders": [
       {
-        "id": "neoforge-21.1.230",
+        "id": "neoforge-21.1.234",
         "primary": true
       }
     ]
@@ -982,12 +982,6 @@
       "required": true
     },
     {
-      "projectID": 308989,
-      "fileID": 5694215,
-      "downloadUrl": "https://edge.forgecdn.net/files/5694/215/caelus-neoforge-7.0.1%2b1.21.1.jar",
-      "required": true
-    },
-    {
       "projectID": 268567,
       "fileID": 7904062,
       "downloadUrl": "https://edge.forgecdn.net/files/7904/62/MekanismTools-1.21.1-10.7.19.85.jar",
@@ -1559,8 +1553,8 @@
     },
     {
       "projectID": 385587,
-      "fileID": 7574260,
-      "downloadUrl": "https://edge.forgecdn.net/files/7574/260/ComplementaryUnbound_r5.7.1.zip",
+      "fileID": 8123288,
+      "downloadUrl": "https://edge.forgecdn.net/files/8123/288/ComplementaryUnbound_r5.8.1.zip",
       "required": true
     },
     {
@@ -2555,8 +2549,8 @@
     },
     {
       "projectID": 1091339,
-      "fileID": 8090653,
-      "downloadUrl": "https://edge.forgecdn.net/files/8090/653/alltheleaks-1.1.9%2b1.21.1-neoforge.jar",
+      "fileID": 8553655,
+      "downloadUrl": "https://edge.forgecdn.net/files/8553/655/alltheleaks-1.1.11%2b1.21.1-neoforge.jar",
       "required": true
     },
     {
@@ -3059,8 +3053,8 @@
     },
     {
       "projectID": 388172,
-      "fileID": 7707149,
-      "downloadUrl": "https://edge.forgecdn.net/files/7707/149/geckolib-neoforge-1.21.1-4.8.4.jar",
+      "fileID": 8350073,
+      "downloadUrl": "https://edge.forgecdn.net/files/8350/73/geckolib-neoforge-1.21.1-4.9.2.jar",
       "required": true
     },
     {
@@ -3325,6 +3319,72 @@
       "projectID": 400514,
       "fileID": 8066730,
       "downloadUrl": "https://edge.forgecdn.net/files/8066/730/easy-villagers-neoforge-1.21.1-1.1.42.jar",
+      "required": true
+    },
+    {
+      "projectID": 602665,
+      "fileID": 8306599,
+      "downloadUrl": "https://edge.forgecdn.net/files/8306/599/ghosts-neoforge-1.21.1-1.3.4.jar",
+      "required": true
+    },
+    {
+      "projectID": 574913,
+      "fileID": 8488969,
+      "downloadUrl": "https://edge.forgecdn.net/files/8488/969/crittersandcompanions-neoforge-1.21.1-2.6.2.jar",
+      "required": true
+    },
+    {
+      "projectID": 651876,
+      "fileID": 6772938,
+      "downloadUrl": "https://edge.forgecdn.net/files/6772/938/nightlights-neoforge-1.3.0.jar",
+      "required": true
+    },
+    {
+      "projectID": 1415721,
+      "fileID": 7528193,
+      "downloadUrl": "https://edge.forgecdn.net/files/7528/193/alexsmobs-1.22.17.jar",
+      "required": true
+    },
+    {
+      "projectID": 1415723,
+      "fileID": 7982052,
+      "downloadUrl": "https://edge.forgecdn.net/files/7982/52/citadel-1.21.1-2.7.6.jar",
+      "required": true
+    },
+    {
+      "projectID": 627986,
+      "fileID": 8528824,
+      "downloadUrl": "https://edge.forgecdn.net/files/8528/824/naturalist-2.0.2-neoforge-1.21.1.jar",
+      "required": true
+    },
+    {
+      "projectID": 465386,
+      "fileID": 5868856,
+      "downloadUrl": "https://edge.forgecdn.net/files/5868/856/animalplus%20neoforge%201.21.1%20%281.0.1v.%29.jar",
+      "required": true
+    },
+    {
+      "projectID": 935694,
+      "fileID": 8507225,
+      "downloadUrl": "https://edge.forgecdn.net/files/8507/225/spawn-4.0.7-1.21.1.jar",
+      "required": true
+    },
+    {
+      "projectID": 1597849,
+      "fileID": 8507094,
+      "downloadUrl": "https://edge.forgecdn.net/files/8507/94/teallib-1.3.teal.jar",
+      "required": true
+    },
+    {
+      "projectID": 433862,
+      "fileID": 6861008,
+      "downloadUrl": "https://edge.forgecdn.net/files/6861/8/architects_palette-neoforge-1.21.1-1.4.0-beta.5.jar",
+      "required": true
+    },
+    {
+      "projectID": 826308,
+      "fileID": 7385620,
+      "downloadUrl": "https://edge.forgecdn.net/files/7385/620/cluttered-%5bNeoForge%5d-3.0.3-1.21.1.jar",
       "required": true
     }
   ],

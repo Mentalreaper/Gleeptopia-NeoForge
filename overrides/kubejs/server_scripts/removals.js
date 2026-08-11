@@ -22,6 +22,10 @@ const globalItemRemovals = [
   'mffs:confiscation_module',
   'pylons:infusion_pylon',
   'pylons:potion_filter',
+  {
+    item: 'reliquified_ars_nouveau:emblem_of_devotion',
+    reason: 'Its orbiting spell effect can crash the game after teleporting.',
+  },
   'xycraft_world:raw_aluminum',
   'xycraft_world:raw_aluminum_block',
   'xycraft_world:aluminum_ore_stone',
