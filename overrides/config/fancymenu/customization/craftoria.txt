@@ -887,87 +887,6 @@ element {
 }
 
 element {
-  button_element_executable_block_identifier = 4835f5c4-b4fd-4eb9-adb0-818f13602635-1719252668618
-  [executable_action_instance:295056ff-112e-4e61-b543-6070c3a0c2d9-1719252692626][action_type:openlink] = https://bisecthosting.com/AOF
-  [executable_block:4835f5c4-b4fd-4eb9-adb0-818f13602635-1719252668618][type:generic] = [executables:295056ff-112e-4e61-b543-6070c3a0c2d9-1719252692626;]
-  backgroundnormal = [source:local]/config/fancymenu/assets/rent_a_server.png
-  backgroundhovered = [source:local]/config/fancymenu/assets/rent_a_server_hovered.png
-  underline_label_on_hover = false
-  transparent_background = false
-  restartbackgroundanimations = true
-  nine_slice_custom_background = false
-  label = 
-  navigatable = true
-  widget_active_state_requirement_container_identifier = eba12aa0-885f-42f1-855c-9168429bb512-1757925755349
-  [loading_requirement_container_meta:eba12aa0-885f-42f1-855c-9168429bb512-1757925755349] = [groups:][instances:]
-  is_template = false
-  template_apply_width = false
-  template_apply_height = false
-  template_apply_posx = false
-  template_apply_posy = false
-  template_apply_opacity = false
-  template_apply_visibility = false
-  template_apply_label = false
-  template_share_with = buttons
-  nine_slice_slider_handle = false
-  element_type = custom_button
-  instance_identifier = 44526a66-6cbe-438d-b009-05e0982db822-1719252668618
-  appearance_delay = no_delay
-  disappearance_delay = no_delay
-  fade_in_v2 = no_fading
-  fade_out = no_fading
-  auto_sizing = false
-  auto_sizing_base_screen_width = 2560
-  auto_sizing_base_screen_height = 1440
-  sticky_anchor = false
-  anchor_point = element
-  anchor_point_element = e218ff02-1d11-4b30-9478-fee6cf4b5fbf-1757927078928
-  x = -217
-  y = 115
-  width = 186
-  height = 28
-  stay_on_screen = true
-  element_loading_requirement_container_identifier = 452c28e8-f18b-4e5c-ac19-b287f2a05cc2-1719252668618
-  [loading_requirement_container_meta:452c28e8-f18b-4e5c-ac19-b287f2a05cc2-1719252668618] = [groups:][instances:]
-  enable_parallax = false
-  invert_parallax = false
-  animated_offset_x = 0
-  animated_offset_y = 0
-  load_once_per_session = false
-  layer_hidden_in_editor = false
-  advanced_rotation_mode = false
-  advanced_vertical_tilt_mode = false
-  advanced_horizontal_tilt_mode = false
-  should_be_affected_by_decoration_overlays = true
-  in_editor_color = #FFC800FF
-  advanced_posx = -2147483648
-  advanced_posy = -2147483648
-  advanced_width = -2147483648
-  advanced_height = -2147483648
-  stretch_x = false
-  stretch_y = false
-  appearance_delay_seconds = 0.5
-  disappearance_delay_seconds = 1.0
-  fade_in_speed = 0.5
-  fade_out_speed = 1.0
-  base_opacity = 1.0
-  parallax_intensity_x = 0.5
-  parallax_intensity_y = 0.5
-  rotation_degrees = 0.0
-  advanced_rotation_degrees = 0.0
-  vertical_tilt_degrees = 0.0
-  advanced_vertical_tilt_degrees = 0.0
-  horizontal_tilt_degrees = 0.0
-  advanced_horizontal_tilt_degrees = 0.0
-  label_scale = 1.0
-  label_shadow = true
-  nine_slice_border_x = 5
-  nine_slice_border_y = 5
-  nine_slice_slider_handle_border_x = 5
-  nine_slice_slider_handle_border_y = 5
-}
-
-element {
   button_element_executable_block_identifier = d93fc1ce-77f9-409e-9a8e-d9be5c7ef5f7-1757926549787
   [executable_action_instance:9e66b4a6-5ac3-4e26-b4b4-31d1a206b2df-1757926868376][action_type:opengui] = com.terraformersmc.mod_menu.gui.ModsScreen
   [executable_block:d93fc1ce-77f9-409e-9a8e-d9be5c7ef5f7-1757926549787][type:generic] = [executables:9e66b4a6-5ac3-4e26-b4b4-31d1a206b2df-1757926868376;]
@@ -2405,4 +2324,3 @@ vanilla_button {
   automated_button_clicks = 0
   is_hidden = true
 }
-
