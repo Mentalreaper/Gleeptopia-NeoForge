@@ -181,9 +181,6 @@
             }
         }
     },
-    "com.hidoni.transmog.gui.TransmogScreen": {
-        "playerSideOnly": true
-    },
     "dev.su5ed.mffs.screen.ProjectorScreen": {
         "playerSideOnly": true,
         "buttonHints": {

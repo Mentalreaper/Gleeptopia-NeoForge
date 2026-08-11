@@ -45,15 +45,11 @@
 	quest.2CB005B413D2B889.quest_desc: [
 		"¡Sí, puedes ser un modelo! "
 		""
-		"Usando la &bMesa de Transfiguración&r puedes &6disfrazar&r &ocualquier&r &7ítem&r, &7bloque&r o &7armadura&r como otra cosa."
+		"&bCosmetic Armor Reworked&r añade &6ranuras de armadura cosmética&r junto a las ranuras normales."
 		""
-		"¿Quieres llevar un bloque en la cabeza? "
-		"¡Hazlo! "
+		"La armadura en esas ranuras cambia tu &aapariencia&r sin reemplazar la armadura que proporciona tus estadísticas."
 		""
-		"¿Disfrazar la espada más fuerte como una galleta? "
-		"¿Por qué no? "
-		""
-		"Las combinaciones son infinitas. "
+		"Abre tu inventario y usa las ranuras cosméticas para combinar &6protección&r y &9estilo&r."
 		""
 		"&9Luce &oTu Estilo&r."
 	]

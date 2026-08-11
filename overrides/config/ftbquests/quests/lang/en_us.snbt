@@ -879,7 +879,7 @@
 		"- Add/remove &bThreads&r with the &bAlteration Table&r"
 		""
 		"&8Quest maker note: looks the best to me if you want to cosplay as a sorceress."
-		"&8Tip: can use Battlemage for armor point and &6transmog&r &8to this armor for look. "
+		"&8Tip: use &bCosmetic Armor Reworked&r &8to keep Battlemage armor stats while displaying this armor."
 	]
 	quest.12094D44D2E3DB16.title: "Arcanist's Cloak"
 	quest.120AAA5FECD27573.quest_subtitle: "Go fluid, go! Stop fluid, stop!"
@@ -2590,15 +2590,11 @@
 	quest.2CB005B413D2B889.quest_desc: [
 		"Yes, you can be a model! "
 		""
-		"By using the &bTransmogrification Table&r, you can &6disguise&r &oany&r &7item&r, &7block&r, or &7armor&r as anything else, so long as it stays an &7item&r. "
+		"&bCosmetic Armor Reworked&r adds &6cosmetic armor slots&r beside your regular armor slots."
 		""
-		"Want to wear a block on your head? "
-		"Do it! "
+		"Armor in those slots changes your &aappearance&r without replacing the armor that provides your stats."
 		""
-		"Cloak the strongest sword as a cookie? "
-		"Why not? "
-		""
-		"The combinations are endless. "
+		"Open your inventory and use the cosmetic slots to combine &6protection&r and &9style&r."
 		""
 		"&9Strut &oYour Style&r."
 	]
@@ -6196,7 +6192,7 @@
 		"- Add/remove &bThreads&r with the &bAlteration Table&r"
 		""
 		"&8Quest maker note: I choose this armor for general usage. (more armor, more gooder)"
-		"&8Tip: &6transmog&r &8to the Arcanist armor if you want to look like Arcanist set. "
+		"&8Tip: use &bCosmetic Armor Reworked&r &8to display Arcanist armor while keeping this armor's stats."
 	]
 	quest.6C7789B56E50B6F1.title: "BattleMage's Cloak"
 	quest.6C8AB8E9A547D1C9.quest_desc: [""]

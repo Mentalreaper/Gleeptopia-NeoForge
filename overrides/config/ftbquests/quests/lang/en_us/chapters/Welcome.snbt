@@ -47,15 +47,11 @@
 	quest.2CB005B413D2B889.quest_desc: [
 		"Yes, you can be a model! "
 		""
-		"By using the &bTransmogrification Table&r, you can &6disguise&r &oany&r &7item&r, &7block&r, or &7armor&r as anything else, so long as it stays an &7item&r. "
+		"&bCosmetic Armor Reworked&r adds &6cosmetic armor slots&r beside your regular armor slots."
 		""
-		"Want to wear a block on your head? "
-		"Do it! "
+		"Armor in those slots changes your &aappearance&r without replacing the armor that provides your stats."
 		""
-		"Cloak the strongest sword as a cookie? "
-		"Why not? "
-		""
-		"The combinations are endless. "
+		"Open your inventory and use the cosmetic slots to combine &6protection&r and &9style&r."
 		""
 		"&9Strut &oYour Style&r."
 	]

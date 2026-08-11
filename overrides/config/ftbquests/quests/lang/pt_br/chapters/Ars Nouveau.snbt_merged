@@ -106,7 +106,7 @@
 		"- Adicione/remova &bFios&r com a &bMesa de Alteração&r"
 		""
 		"&8Nota do criador da missão: parece melhor para mim se você quiser fazer cosplay de feiticeira."
-		"&8Dica: pode usar Mago de Batalha para pontos de armadura e &6transmog&r &8para esta armadura pelo visual. "
+		"&8Dica: use &bCosmetic Armor Reworked&r &8para manter os atributos da armadura de Mago de Batalha enquanto exibe esta armadura."
 	]
 	quest.12094D44D2E3DB16.title: "Manto do Arcanista"
 	quest.12CFAFA1E247D888.quest_desc: [
@@ -1211,7 +1211,7 @@
 		"- Adicione/remova &bFios&r com a &bMesa de Alteração&r"
 		""
 		"&8Nota do criador da missão: eu escolho esta armadura para uso geral. (mais armadura, melhor)"
-		"&8Dica: &6transmog&r &8para a armadura de Arcanista se você quiser parecer com o conjunto de Arcanista. "
+		"&8Dica: use &bCosmetic Armor Reworked&r &8para exibir a armadura de Arcanista enquanto mantém os atributos desta armadura."
 	]
 	quest.6C7789B56E50B6F1.title: "Manto do Mago de Batalha"
 	quest.7080BD0EC57359A6.quest_desc: [

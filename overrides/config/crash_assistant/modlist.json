@@ -453,14 +453,6 @@
     "curseForgeHash": 2324986114,
     "modrinthHash": "870521cfaa1a4cb6c830e2409e8b9e4cf179aff2"
   },
-  "BHMenu-NeoForge-1.21-2.4.4.jar": {
-    "jarName": "BHMenu-NeoForge-1.21-2.4.4.jar",
-    "modId": "bhmenu",
-    "name": "BHMenu",
-    "version": "2.4.4",
-    "curseForgeHash": 192081154,
-    "modrinthHash": "5edcf2d9007e99c5030b6a525cd701ddfa62f10d"
-  },
   "bigger_ae2-1.21.1-1.4.8.jar": {
     "jarName": "bigger_ae2-1.21.1-1.4.8.jar",
     "modId": "bigger_ae2",
@@ -1013,14 +1005,6 @@
     "curseForgeHash": 1370336046,
     "modrinthHash": "de68b3dcfd5b1a3acdb03cb610f2e83debb7ee3e"
   },
-  "desiredservers-neoforge-1.21.1-1.6.0.jar": {
-    "jarName": "desiredservers-neoforge-1.21.1-1.6.0.jar",
-    "modId": "desiredservers",
-    "name": "Desired Servers",
-    "version": "1.6.0",
-    "curseForgeHash": 2882790876,
-    "modrinthHash": "4b669511628a866b147a4f32c972f0602352f1f2"
-  },
   "displaydelight-1.6.0.jar": {
     "jarName": "displaydelight-1.6.0.jar",
     "modId": "displaydelight",
@@ -1077,6 +1061,14 @@
     "curseForgeHash": 3533465852,
     "modrinthHash": "ac9edb266a1360e9e4c80ed0b2f931f1505307eb"
   },
+  "easy-villagers-neoforge-1.21.1-1.1.42.jar": {
+    "jarName": "easy-villagers-neoforge-1.21.1-1.1.42.jar",
+    "modId": "easy_villagers",
+    "name": "Easy Villagers",
+    "version": "1.21.1-1.1.42",
+    "curseForgeHash": 2208091056,
+    "modrinthHash": "bde2278d0c216916ff5a780c9f3acfb50ebee9e5"
+  },
   "elevatorid-neoforge-1.21.1-1.11.4.jar": {
     "jarName": "elevatorid-neoforge-1.21.1-1.11.4.jar",
     "modId": "elevatorid",
@@ -1084,14 +1076,6 @@
     "version": "1.21.1-1.11.4",
     "curseForgeHash": 440592762,
     "modrinthHash": "87a5504efcd51de55cd4215a103cbfcf717fa022"
-  },
-  "elytraslot-neoforge-9.0.2+1.21.1.jar": {
-    "jarName": "elytraslot-neoforge-9.0.2+1.21.1.jar",
-    "modId": "elytraslot",
-    "name": "Elytra Slot",
-    "version": "9.0.2+1.21.1",
-    "curseForgeHash": 1233383863,
-    "modrinthHash": "8ac6cf959fe66399aa7e86b6e6f933e07d155b7e"
   },
   "embeddium-1.0.15+mc1.21.1.jar": {
     "jarName": "embeddium-1.0.15+mc1.21.1.jar",
@@ -1252,6 +1236,14 @@
     "version": "1.9.1-r5.8.1-neoforge",
     "curseForgeHash": 1202054995,
     "modrinthHash": "6042ad281e8bd67e8b4c4ccf46a9779b6fda2ff6"
+  },
+  "ExplorersCompass-1.21.1-3.4.0-neoforge.jar": {
+    "jarName": "ExplorersCompass-1.21.1-3.4.0-neoforge.jar",
+    "modId": "explorerscompass",
+    "name": "Explorer's Compass",
+    "version": "1.21.1-3.4.0-neoforge",
+    "curseForgeHash": 2243555533,
+    "modrinthHash": "9f62af344988a6e2d855b113e61cf0e1611c7e0f"
   },
   "exposure-neoforge-1.21.1-1.9.16.jar": {
     "jarName": "exposure-neoforge-1.21.1-1.9.16.jar",
@@ -3666,14 +3658,6 @@
     "curseForgeHash": 3293164572,
     "modrinthHash": "3f565ecc8560eba3ae3e15ff6542a3025d7377a2"
   },
-  "trade-cycling-neoforge-1.21.1-1.0.18.jar": {
-    "jarName": "trade-cycling-neoforge-1.21.1-1.0.18.jar",
-    "modId": "trade_cycling",
-    "name": "Trade Cycling",
-    "version": "1.21.1-1.0.18",
-    "curseForgeHash": 3391123782,
-    "modrinthHash": "f0c95fb82f68f2c7402e0615a5d241e6097920cf"
-  },
   "transfer_labels-0.1.7.jar": {
     "jarName": "transfer_labels-0.1.7.jar",
     "modId": "transfer_labels",
@@ -3681,14 +3665,6 @@
     "version": "0.1.7",
     "curseForgeHash": 829630758,
     "modrinthHash": "c1561ca14e685742b2e28d83c2ba473f767d4f80"
-  },
-  "transmog-neoforge-1.6.0+1.21.1.jar": {
-    "jarName": "transmog-neoforge-1.6.0+1.21.1.jar",
-    "modId": "transmog",
-    "name": "Transmog",
-    "version": "1.6.0",
-    "curseForgeHash": 1235670440,
-    "modrinthHash": "fb37ae0a35e8bb9340e61007275121f02cf7a8bc"
   },
   "trashcans-1.0.18c-neoforge-mc1.21.jar": {
     "jarName": "trashcans-1.0.18c-neoforge-mc1.21.jar",
